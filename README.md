@@ -1,2 +1,2 @@
 # AndroidSqliteTutorial
-Android mobile app demsontrating CRUD
+Android mobile app demonstrating CRUD
